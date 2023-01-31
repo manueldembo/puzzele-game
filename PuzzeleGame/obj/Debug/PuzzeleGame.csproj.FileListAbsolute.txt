@@ -1,0 +1,29 @@
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\bin\Debug\PuzzeleGame.exe.config
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\bin\Debug\PuzzeleGame.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\bin\Debug\PuzzeleGame.pdb
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.frmMain.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.Properties.Resources.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.csproj.GenerateResource.Cache
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.pdb
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.frmGameOver.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.frmInicio.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.csprojResolveAssemblyReference.cache
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\PuzzeleGame\PuzzeleGame\bin\Debug\PuzzeleGame.exe.config
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.pdb
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\bin\Debug\PuzzeleGame.exe.config
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.pdb
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\bin\Debug\PuzzeleGame.exe.config
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\bin\Debug\PuzzeleGame.exe
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\bin\Debug\PuzzeleGame.pdb
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.csprojAssemblyReference.cache
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.frmGameOver.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.frmInicio.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.frmMain.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.Properties.Resources.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.csproj.GenerateResource.cache
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.exe
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\PuzzeleGame\PuzzeleGame\obj\Debug\PuzzeleGame.pdb
